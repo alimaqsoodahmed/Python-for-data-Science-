@@ -1,3 +1,4 @@
+to run this notebook first download the dataset from KAGGLE https://www.kaggle.com/datasets/sardaralimaqsood/dataset and then upload on Colab.
 single Notebook With  basic to advance all concept  for Data Science. you can download and run on google colab by first loading the dataset on to the colab then run all.(if there is not an update from any module or  library).
 python 3.14
 Pandas 2.32
